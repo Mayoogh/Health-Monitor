@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Health Monitor</string>
+    <string name="oxygen">Oxygen</string>
+    <string name="loading">Loading..</string>
+    <string name="splashscreen">SplashSCreen</string>
+    <string name="login">Login</string>
+    <string name="mayoogh_girish">Mayoogh Girish</string>
+</resources>
